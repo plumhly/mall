@@ -1,0 +1,37 @@
+{
+  "id": "3555657",
+  "name": "mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "847154",
+      "name": "shopping",
+      "font_class": "shopping",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "1397978",
+      "name": "Person",
+      "font_class": "Person",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4766685",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e7c6",
+      "unicode_decimal": 59334
+    },
+    {
+      "icon_id": "18629785",
+      "name": "Category",
+      "font_class": "Category",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}
